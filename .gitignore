@@ -1,0 +1,5 @@
+data/*
+*.tif
+*.txt
+*/index/*
+*.tar.gz

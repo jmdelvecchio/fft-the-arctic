@@ -1,0 +1,5 @@
+site,long_dd,lat_dd,data,file
+t47,-166.236575,65.011209,ncalm,TLRN_GEF_01M.tif
+t27,-166.010027,64.776650,ncalm,TLRS_GEF_01M_V2.tif
+koug,-164.758262,65.168131,ncalm,KGRKS_GEF_01M.tif
+council,-163.766552,64.839209,ncalm,CNCL_GEF_01M.tif
