@@ -3,3 +3,6 @@ data/*
 *.txt
 */index/*
 *.tar.gz
+*.pdf
+*.log
+*parsl*
