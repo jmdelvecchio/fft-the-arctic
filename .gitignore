@@ -6,3 +6,4 @@ data/*
 *.pdf
 *.log
 *parsl*
+dem_fft.ipynb
