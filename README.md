@@ -11,4 +11,6 @@ This repo contains codes and data demonstrating how to perform spectral analyses
 4) I modify [Ben Purinton's Python version](https://github.com/bpurinton/DEM-FFT) of Taylor Perron's 2D spectral analysis to perform a 2D fast Fourier transform on all of the above data. 
 5) A notebook that needs to be severely cleaned up shows you how to visualize all these power spectra (sorted in useful ways like by mean annual temperature and relief) using dictionaries and `plt.imshow()`. 
 
+If you wan to get the lidar data, you need to create a "data" directory and plop in the data from NGEE Arctic's NCALM campaigns [here](https://data.ngee-arctic.ornl.gov/data/pages/NGA270.html) and [here](https://data.ngee-arctic.ornl.gov/data/pages/NGA314.html). If you want to download ArcticDEM from the PGC, you need to download their [strip index shapefile](https://www.pgc.umn.edu/data/arcticdem/). If you want to run the Earth Engine bits you just need an Earth Engine account. 
+
 *01/02/2024*: Right now I'm cleaning it up but I'm uploading the code to do the inter-dataset comparison as well as upload the `.pkl` of the data and the plotting scripts I used for my 2023 AGU poster. My goal is for this month to have this repo in a more plug-and-play format. But for now, enjoy the spaghetti code. 
